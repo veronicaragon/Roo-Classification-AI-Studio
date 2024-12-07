@@ -97,7 +97,6 @@ python evaluate_model.py --model_path models/best_model.pkl --test_data data/tes
 Apache License 2.0
 
 ## Acknowledgments
-- Michelle Bao, Data Scientist at PPFA
-- Michael O'Keefe, Senior Director of Software Engineering at PPFA
-- Ambreen Molitor, National Director of Innovation at PPFA
+- PPFA Challenge Advisors
+- My teammates
 - Break Through Tech AI Program at Cornell Tech
